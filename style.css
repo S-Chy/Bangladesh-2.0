@@ -1,0 +1,202 @@
+.container{
+    border-radius: 10px;
+    margin: 64px 64px 64px 64px;
+    padding: 64px 64px 64px 64px;
+    display: flex;
+    justify-content: space-between;
+
+    background-color: paleturquoise;
+    /*border: 1px solid gray;*/
+    
+}
+.banner{
+     margin: 5px 5px 5px 5px;
+     padding: 5px 5px;
+
+}
+.paragraph{
+        font-family: "Fira Sans", serif;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 24;
+        padding: 30px 30px;
+        
+}
+.h1{
+    margin-top:5px 5px 5px 5px;
+    font-size: 50px;
+    padding: 0% 30px;
+    text-align: left;
+}
+
+.btn{
+    background-color: #006A50;
+    margin:5px 5px 5px 5px ;
+    height: 56px;
+    cursor: pointer;
+    width:270px;
+    color: white;
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-size: 18px;
+    font-style: normal;
+    text-align: center;
+    border-radius: 10px;
+    padding: 17px 34px;
+    transition-duration: 0.5s;
+}
+.btn:hover{
+    background-color: #013629;
+    color: white;
+}
+.img{
+    background-image: url(./B11A1--assignment-1-main/assets/hero.png);
+}
+.pillar-container{
+    margin: 0px;
+}
+.Pillar-head{
+    margin: 64px 64px 64px 64px;
+    padding: 64px 64px 64px 64px;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+.pillars-container{
+    display: flex;
+    gap: 24px;
+    margin: 64px 64px 64px 64px;
+    padding: 24px 24px;
+    margin-top: 0px;
+}
+
+.pillars{
+    padding: 24px 24px 24px 24px;
+    border-radius: 16px;
+    border: 1px 1px 1px 1px solid gray;
+}
+/*visions*/
+.Vision{
+    margin :5px 5px 5px 5px;
+    padding: 0%;
+    margin-bottom:0%;
+    padding-bottom: 1%;
+    margin-bottom: 0%;
+}
+.heading-of-vision{
+    margin: 64px 64px 64px 64px;
+    padding: 64px 64px 64px 64px;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 0px;
+    padding-bottom: 1%;
+}
+.paragraph-of-vision{
+    font-size: 16px;
+    margin: 64px 64px 64px 64px;
+    margin-top: 0px;
+    padding: 64px 5px 0px 64px;
+    padding-top: 0%;
+    font-weight: lighter;
+    color: #0E0E0E;
+    padding-bottom: 1%;
+    margin-bottom: 0px;
+}
+.visions-container{
+    display: flex;
+    gap: 24px;
+    margin: 64px 64px 64px 64px;
+    padding: 64px 5px 0px 64px;
+    margin-top: 0%;
+    padding-top: 1%;
+    padding-bottom: 0%;
+    
+    
+}
+.visions-box1{
+    padding-top: 30%;
+    padding-bottom: 30%;
+    text-align: justify;
+    width:410px;
+    height:300px;
+    /*border:1px solid gray;*/
+    border-radius: 16px;
+    padding: 32px 32px;
+    background-color: #9ebdf1;
+    margin-bottom: 5%;
+}
+.visions-box1:hover{
+    background-color:#85a1da;
+}
+.btn-digital-transformation{
+    text-align: center;
+    font-size: 16px;
+    border-radius: 8px;
+    /*border:1px solid gray;*/
+    width: 122px;
+    height: 41px;
+    padding: 11px 11px;
+    background-color: #457cdb;
+}
+.btn-digital-transformation:hover{
+    background-color: #83a3db;
+    color: white;
+}
+.visions-box2{
+    padding-top: 30%;
+    padding-bottom: 30%;
+    text-align: justify;
+    width:410px;
+    height:300px;
+    /*border:1px solid gray;*/
+    border-radius: 16px;
+    padding: 32px 32px;
+    background-color: #4acc92;
+    margin-bottom: 20%;
+}
+.visions-box2:hover{
+    background-color: #7ceebb;
+}
+.btn-green-energy{
+    text-align: center;
+    font-size: 16px;
+    border-radius: 8px;
+    /*border:1px solid gray;*/
+    width: 122px;
+    height: 41px;
+    padding: 11px 11px;
+    background-color: #09A15C;
+}
+.btn-green-energy:hover{
+    background-color: #71e4b0;
+    color: white;
+}
+.visions-box3{
+    padding-top: 30%;
+    padding-bottom: 30%;
+    text-align: justify;
+    width:410px;
+    height:300px;
+    /*border:1px solid gray;*/
+    border-radius: 16px;
+    padding: 32px 32px;
+    background-color: #f7cf73;
+    margin-bottom: 20%;
+}
+.visions-box3:hover{
+    background-color: #f5d998;
+}
+.btn-Modern-infrastructure{
+    text-align: center;
+    font-size: 16px;
+    border-radius: 8px;
+    /*border:1px solid gray;*/
+    width: 122px;
+    height: 41px;
+    padding: 11px 11px;
+    background-color: #FFC239;
+}
+.btn-Modern-infrastructure:hover{
+    background-color: #fcd67d;
+    color: white;
+}
