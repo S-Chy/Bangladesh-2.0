@@ -226,14 +226,9 @@
     margin-bottom: 0px;
 }
 .news-img{
-    width: 400px;
-    height: 300px;
-    border-radius: 24px;
     background-image: url(B11A1--assignment-1-main/assets/satelite.png);
 }
 .news-img1{
-    padding-top: 1px;
-    margin-top: 1px;
     background-image: url(B11A1--assignment-1-main/assets/al-jazeera.png);
 }
 .paragraph-news{
@@ -294,8 +289,6 @@ border-radius: 24px;
     margin-bottom: 1px;
 }
 .news-img1-1{
-    padding-top: 1px;
-    margin-top: 1px;
     background-image: url(B11A1--assignment-1-main/assets/al-jazeera.png);
 }
 .date-time1{
