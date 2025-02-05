@@ -387,3 +387,46 @@ border-radius: 24px;
 .btn-taka:hover{
     background-color: #4acc92;
 }
+/*newsletter*/
+.newsletter{
+    align-content: center;
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 20px;
+    padding-left: 60px;
+    padding: 80px 100px 80px 100px;
+    height: 300px;
+    width: 600px;
+    background-color: #4acc92;
+    /*border : 1px solid gray:*/
+    border-radius: 8px;
+}
+.form-field{
+    height: 65px;
+    width: 250px;
+    border-radius: 8px;
+    /*border: 1px solid gray;*/
+
+}
+.sub3{
+    font-size: 18px;
+    font-weight: lighter;
+}
+.sub{
+    font-size: 40px;
+    font-weight: bold;
+}
+.sub2{
+    font-size: 16px;
+    font-weight:lighter;
+}
+
+.sub-btn{
+    width: 150px;
+    height: 65px;
+    border-radius: 8px;
+    background-color: #006A50;
+}
+.sub-btn:hover{
+    background-color: #4acc92;
+}
