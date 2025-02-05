@@ -20,10 +20,11 @@
         font-style: normal;
         font-size: 24;
         padding: 30px 30px;
+        margin-bottom: 1px;
         
 }
 .h1{
-    margin-top:5px 5px 5px 5px;
+    margin-top: 1px;
     font-size: 50px;
     padding: 0% 30px;
     text-align: left;
@@ -110,6 +111,7 @@
     margin-top: 0%;
     padding-top: 1%;
     padding-bottom: 0%;
+    margin-bottom: 1px;
     
     
 }
@@ -199,4 +201,189 @@
 .btn-Modern-infrastructure:hover{
     background-color: #fcd67d;
     color: white;
+}
+/*news*/
+.news{
+   margin: 64px 64px 64px 64px;
+   padding: 48px 48px 48px 48px;
+   margin-top: 1px;
+
+}
+.heading-news{
+    font-size: 40px;
+    font-weight: bold;
+    padding: 1px 48px 1px 48px;
+    padding-top: 1px;
+    margin-bottom: 0px;
+}
+.news-img{
+    width: 400px;
+    height: 300px;
+    border-radius: 24px;
+}
+.news-img1{
+    padding-top: 1px;
+    margin-top: 1px;
+
+}
+.paragraph-news{
+    font-size: 16px;
+    font-weight: normal;
+    padding-top: 1px;
+    padding: 1px 48px 1px 48px;
+}
+.date-time{
+    display: flex;
+    gap: 5px;
+}
+.btn-news1{
+    width: 139px;
+    height: 48px;
+    padding: 13px 26px 13px 26px;
+    background-color: #006A50;
+    border-radius: 8px;
+    color: white;
+}
+.btn-news1:hover{
+    background-color: #4acc92;
+}
+.news-para{
+    font-size: 32px;
+    font-weight: bold;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+}
+.news-container{
+display: flex;
+gap: 32px;
+margin: 10px 0px 5px 10px;
+padding: 48px 48px 48px 48px;
+/*border: 1px solid gray;*/
+background-color: rgb(245, 241, 233);
+border-radius: 24px;
+}
+.Para-of-news{
+    padding: 0px 0px 0px 0px;
+}
+.news-cont2{
+    display: flex;
+    gap: 32px;
+    margin: 10px 0px 5px 10px;
+    padding: 48px 48px 48px 48px;
+    /*border: 1px solid gray;*/
+    background-color: rgb(245, 241, 233);
+    border-radius: 24px; 
+}
+.Para-of-news2{
+    padding: 0px 0px 0px 0px;
+}
+.news-para2{
+    font-size: 32px;
+    font-weight: bold;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+}
+.news-img1-1{
+    padding-top: 1px;
+    margin-top: 1px;
+}
+.date-time1{
+    display: flex;
+    gap: 5px;
+}
+.btn-news2{
+    width: 139px;
+    height: 48px;
+    padding: 13px 26px 13px 26px;
+    background-color: #006A50;
+    border-radius: 8px;
+    color: white;
+}
+.btn-news2:hover{
+    background-color: #4acc92;
+}
+/*donation*/
+.donate{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.donate2{
+    text-align: center;
+}
+.donate3{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+}
+
+.first-tk{
+    font-size: 40px;
+    width: 200px;
+    margin-top: 10px;
+    height: 50px;
+    font-weight: bold;
+    /*border: 1px solid gray;*/
+    background-color: rgb(243, 228, 228);
+    border-radius: 16px;
+    padding-top: 10px;
+    padding: 40px 40px 40px 40px;
+    text-align: center;
+}
+.second-tk{
+    font-size: 40px;
+    width: 200px;
+    margin-top: 10px;
+    height: 50px;
+    font-weight: bold;
+    /*border: 1px solid gray;*/
+    background-color: rgb(132, 187, 132);
+    border-radius: 16px;
+    padding-top: 10px;
+    padding: 40px 40px 40px 40px;
+    text-align: center;
+}
+.third-tk{
+    font-size: 40px;
+    width: 200px;
+    margin-top: 10px;
+    height: 50px;
+    font-weight: bold;
+    /*border: 1px solid gray;*/
+    background-color: rgb(243, 228, 228);
+    border-radius: 16px;
+    padding-top: 10px;
+    padding: 40px 40px 40px 40px;
+    text-align: center; 
+}
+.fourth-tk{
+    font-size: 40px;
+    width: 200px;
+    margin-top: 10px;
+    height: 50px;
+    font-weight: bold;
+    /*border: 1px solid gray;*/
+    background-color: rgb(243, 228, 228);
+    border-radius: 16px;
+    padding-top: 10px;
+    padding: 40px 40px 40px 40px;
+    text-align: center;  
+}
+.btk{
+    display: flex;
+    justify-content: center;
+}
+.btn-taka{
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    padding: 17px 34px 34px 17px;
+    background-color: #006A50;
+    border-radius: 8px;
+    border: 1px solid gray;
+    color: white;
+    text-align: center;
+}
+.btn-taka:hover{
+    background-color: #4acc92;
 }
